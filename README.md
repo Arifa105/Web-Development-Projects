@@ -31,7 +31,7 @@ Watch and listen to the sequence of lights and sounds, then repeat the sequence 
 ### Game Over:
 If you press the wrong button, the game will indicate the mistake and you can restart to try again.
 
-# To-Do List Application
+# 3. To-Do List Application
 
 ### Add a Task: 
 Type a task into the input field and press the "Add" button or hit enter.
