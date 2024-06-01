@@ -31,5 +31,15 @@ Watch and listen to the sequence of lights and sounds, then repeat the sequence 
 ### Game Over:
 If you press the wrong button, the game will indicate the mistake and you can restart to try again.
 
+# To-Do List Application
+
+### Add a Task: 
+Type a task into the input field and press the "Add" button or hit enter.
+### Complete a Task: 
+Click on a task to mark it as completed. Completed tasks will have a line through them.
+### Delete a Task: 
+Click the delete icon next to a task to remove it from the list.
+
+
 
 
