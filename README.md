@@ -35,6 +35,8 @@ If you press the wrong button, the game will indicate the mistake and you can re
 
 ### Add a Task: 
 Type a task into the input field and press the "Add" button or hit enter.
+### Edit a Task:
+Click the edit icon next to a task to modify its content, then save the changes.
 ### Complete a Task: 
 Click on a task to mark it as completed. Completed tasks will have a line through them.
 ### Delete a Task: 
