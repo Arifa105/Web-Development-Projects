@@ -18,8 +18,6 @@ Playback Bar: A footer playback bar with controls for play, pause, next, previou
 ## Features
 ### Interactive Gameplay:
 Replicates the classic Simon Game with interactive buttons and sequences.
-### Sound Effects: 
-Each button produces a unique sound when pressed, enhancing the gameplay experience.
 ### Dynamic Sequences: 
 Randomly generated sequences that increase in length as the game progresses.
 ### Start and Restart Functionality:
